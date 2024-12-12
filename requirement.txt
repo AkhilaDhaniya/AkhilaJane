@@ -3,4 +3,4 @@ opencv-python
 mediapipe
 numpy
 pandas
-tensorflow
+tensorflow==2.12.0
